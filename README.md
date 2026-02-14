@@ -1,13 +1,6 @@
-# 4 Aces Construction Website
+# Construction Company Website
 
-A professional, modern, and responsive website for 4 Aces Construction - a quality construction and remodeling company based in Spokane, Washington.
-
-## 🏗️ Company Information
-
-- **Company Name**: 4 Aces Construction
-- **Location**: Spokane, WA
-- **Address**: 2708 N Napa St, Spokane, WA 99207
-- **Phone**: (509) 370-9295
+A professional, modern, and responsive website template for a construction and remodeling company. This project was created as a portfolio piece to demonstrate web development skills with HTML, CSS, and JavaScript.
 
 ## ✨ Features
 
@@ -29,7 +22,7 @@ A professional, modern, and responsive website for 4 Aces Construction - a quali
 ## 📁 File Structure
 
 ```
-4-Aces-Construction-Website-2/
+project/
 ├── index.html          # Main HTML file
 ├── styles.css          # All CSS styling
 ├── script.js           # JavaScript functionality
@@ -131,14 +124,8 @@ To add custom images:
 
 ## 📄 License
 
-This website is created for 4 Aces Construction. All rights reserved.
-
-## 🤝 Support
-
-For questions or support regarding this website, please contact:
-- **Phone**: (509) 370-9295
-- **Address**: 2708 N Napa St, Spokane, WA 99207
+This is a portfolio project. Feel free to use it as a template for your own projects.
 
 ---
 
-Built with ❤️ for 4 Aces Construction
+Built as a portfolio demonstration of modern web development
